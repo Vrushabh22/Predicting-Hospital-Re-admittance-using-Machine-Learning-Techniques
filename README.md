@@ -6,3 +6,4 @@ Comprising 50 explanatory variables, the dataset provides insights into both pat
 
 # Dataset Information
 The data originates from the UCI Machine Learning Repository, specifically the Diabetes 130-US hospitals for the years 1999-2008 Data Set (Beata, 2014, p. 2). This dataset comprises a total of 101,766 records and encompasses 50 attributes. Each record in the ‘diabetic_data.csv’ file describes a unique patient’s earliest admission at a participating health institution as recorded by their electronic medical record.
+The data is preprocessed, and split into a train and test data set for training and testing purposes.
